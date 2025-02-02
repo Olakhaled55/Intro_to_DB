@@ -1,4 +1,5 @@
 USE alx_book_store;
+mysql -u username -p alx_book_store < task_6.sql
 
 INSERT INTO customer (customer_id, customer_name, email, address)
 VALUES 
