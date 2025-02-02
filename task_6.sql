@@ -1,3 +1,5 @@
+#bash
+mysql -u username -p alx_book_store < task_6.sql
 USE alx_book_store;
 mysql -u username -p alx_book_store < task_6.sql
 
