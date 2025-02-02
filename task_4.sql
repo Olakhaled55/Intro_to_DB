@@ -9,5 +9,5 @@ SELECT
 FROM 
     COLUMNS 
 WHERE 
-    TABLE_SCHEMA = 'alx_book_store' 
+    TABLE_SCHEMA = DATABASE() 
     AND TABLE_NAME = 'books';
